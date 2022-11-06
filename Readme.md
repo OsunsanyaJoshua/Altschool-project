@@ -11,7 +11,7 @@ This is an api for a blog. Altschool Africa Nodejs second semester project
 
 ### Links
 
-- Solution URL: https://github.com/osunsanyajpshua/Blog-API
+- Solution URL: https://github.com/OsunsanyaJoshua/Blog-API
 - Live Site URL: https://myblogapi.cyclic.app/
 ---
 ## Requirements
